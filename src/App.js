@@ -14,6 +14,7 @@ import ServiceDetails from './component/ServiceDetails/ServiceDetails';
 function App() {
   return (
     <div>
+      {/* Routes */}
       <BrowserRouter>
         <Header></Header>
         <Switch>

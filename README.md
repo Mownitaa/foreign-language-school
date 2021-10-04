@@ -4,8 +4,8 @@ Live Repository link of "Foreign Language School"(https://foreign-language-schoo
 
 ### This repository is about:-
 * A foreign language teaching online platform 
-* Have many courses related to language
-* Have informations about course criteria
+* Have many courses, related to language
+* Have informations about course criteria and others
 
 In the project directory, you can run:
 

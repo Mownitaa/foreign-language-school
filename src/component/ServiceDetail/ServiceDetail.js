@@ -11,7 +11,7 @@ const ServiceDetail = (props) => {
                     <div className="card-body mt-3">
                         <h5 className="card-title  fw-bold">{name}</h5>
                         <p className="card-text">{description}</p>
-                        <button className="border border-dark rounded text-center text-primary fw-bold p-1">Enroll Now</button> <span className="fs-4 fw-bolder text-warning ">${cost}</span>
+                        <button className="border border-dark rounded text-center text-primary fw-bold p-1 me-2">Enroll Now</button> <span className="fs-4 fw-bolder text-warning">${cost}</span>
                     </div>
 
                     <div className="card-footer">
