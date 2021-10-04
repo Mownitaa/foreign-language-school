@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Foreign Language School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Repository link of "Foreign Language School"(https://foreign-language-school-d029bd.netlify.app/).
 
-## Available Scripts
+### This repository is about:-
+* A foreign language teaching online platform 
+* Have many courses related to language
+* Have informations about course criteria
 
 In the project directory, you can run:
 
