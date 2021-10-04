@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Immensive English",
+        "cost": 100,
+        "description": "Welcome to Immensive English course,a course created by the University of Pennsylvania to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 2,
+        "months": 6,
+        "modules": 12,
+        "university": "University of Pennsylvania",
+        "img": "https://sifetrainings.com/wp-content/uploads/2020/12/8-2-1024x1024.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Speak Korean 101",
+        "cost": 100,
+        "description": "Welcome to Speak Korean 101 course,a course created by the Seoul National University to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 1.5,
+        "months": 6,
+        "modules": 14,
+        "university": "Seoul National University",
+        "img": "https://www.90daykorean.com/wp-content/uploads/2020/10/Online-Korean-Course-Removed-White-1-min.png"
+    },
+    {
+        "id": 3,
+        "name": "Learn Hindi",
+        "cost": 100,
+        "description": "Welcome to Learn Hindi course,a course created by the Indian Institute of Technology to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 2,
+        "months": 6,
+        "modules": 12,
+        "university": "Indian Institute of Technology",
+        "img": "https://i.ytimg.com/vi/hE6I9apUvrk/hqdefault.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Spoken English",
+        "cost": 100,
+        "description": "Welcome to Spoken English course,a course created by the University of California to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 1.5,
+        "months": 6,
+        "modules": 12,
+        "university": "University of California",
+        "img": "https://leverageedu.com/blog/wp-content/uploads/2020/05/How-to-Learn-Spoken-English_.png"
+    },
+    {
+        "id": 5,
+        "name": "Basics of Spanish",
+        "cost": 100,
+        "description": "Welcome to Basics of Spanish course,a course created by the Pompeu Fabra University to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 2,
+        "months": 6,
+        "modules": 10,
+        "university": "Pompeu Fabra University",
+        "img": "https://image.isu.pub/201022100923-d2668452687e048bda3d30849e7b6824/jpg/page_1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rustic Russian",
+        "cost": 100,
+        "description": "Welcome to Rustic Russian course,a course created by the Moscow State University to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 1.5,
+        "months": 6,
+        "modules": 15,
+        "university": "Moscow State University",
+        "img": "https://images.squarespace-cdn.com/content/v1/5a9850b95417fc1f5c48bde0/1520195224853-NU65C2R65OOD88I48WLQ/Russian+Language+in+Dhaka?format=1000w"
+    },
+    {
+        "id": 7,
+        "name": "French Flux",
+        "cost": 100,
+        "description": "Welcome to French Flux course,a course created by the Universite Curie, Paris to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 2,
+        "months": 6,
+        "modules": 11,
+        "university": "Universite Curie, Paris",
+        "img": "https://thumbs.dreamstime.com/b/french-learning-concept-language-school-course-study-foreign-languages-native-speaker-idea-global-communication-vector-196297841.jpg"
+    },
+    {
+        "id": 8,
+        "name": "First Step Korean",
+        "cost": 100,
+        "description": "Welcome to First Step Korean course,a course created by the Ajou International University to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button",
+        "time": 1.5,
+        "months": 6,
+        "modules": 12,
+        "university": "Ajou International University",
+        "img": "https://www.90daykorean.com/wp-content/uploads/2014/12/Korean-vocabulary-Words.webp"
+    },
+    {
+        "id": 9,
+        "name": "Chinese for Beginners",
+        "cost": 100,
+        "description": "Welcome to Chinese for Beginners course,a course created by the Beijing Normal University to serve you with the best learning experience.This course can be applied to multiple Specializations or Professional Certificates programs.To enroll this course, click on 'Enroll Now' button.",
+        "time": 2,
+        "months": 6,
+        "modules": 14,
+        "university": "Beijing Normal University",
+        "img": "https://ipsuni.com/public/storage/uploads/1583241964-Chinese-Language.jpg"
+    }
+]

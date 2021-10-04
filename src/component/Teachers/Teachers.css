@@ -1,0 +1,9 @@
+.teachers{
+    width: 340px;
+    height: 350px;
+    padding:10px;
+}
+.card{
+    margin:5px;
+    box-shadow: 3px 4px 10px gray
+}
