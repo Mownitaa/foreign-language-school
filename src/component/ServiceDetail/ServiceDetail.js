@@ -2,8 +2,10 @@ import React from 'react';
 import './ServiceDetail.css'
 const ServiceDetail = (props) => {
     const { name, img, description, time, months, modules, cost } = props.serviceDetail;
+
     return (
-        <div>
+
+        <div className="mb-4">
 
             <div className="card-deck">
                 <div className="card mb-5 mx-2">
@@ -29,6 +31,7 @@ const ServiceDetail = (props) => {
                 </div>
 
             </div>
+
         </div>
 
     );
